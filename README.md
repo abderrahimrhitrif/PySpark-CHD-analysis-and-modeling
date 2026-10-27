@@ -24,10 +24,3 @@ This project implements distributed data analysis and exploratory workflows for 
 ```bash
 jupyter notebook spark.ipynb
 ```
-
-## CV Bullet Points
-- Developed distributed data processing and exploratory analysis pipelines for CHD datasets using PySpark DataFrames and memory caching.
-- Performed distributed missing-value auditing, schema inference, and statistical aggregation at scale.
-
-## Claims to Avoid
-- Do not claim large-scale cluster deployment across production Hadoop/YARN clusters (run locally or in notebook environment).
